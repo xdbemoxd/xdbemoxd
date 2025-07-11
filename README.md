@@ -1,7 +1,7 @@
 Hi 👋 My name is Benjamin Marroquin
 ===================================
 
-Front-end developer or machine learning engineer
+Front-end developer and machine learning engineer
 ------------------------------------------------
 
 As you’ll see in my GitHub repository, I have completed multiple projects across various domains. I’m passionate about statistics and predictive modeling, and I love mathematics—which is why I’m drawn to data science. I’ve also built several Front‑End projects using Next.js.
